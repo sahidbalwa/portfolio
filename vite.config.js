@@ -7,5 +7,6 @@ export default defineConfig({
   server: {
     host: true, // Expose the server to the network
     port: process.env.PORT || 5173, // Use Render's PORT variable or default to 5173
+    allowedHosts: ["ssbalwa.onrender.com"], // Allow this specific hostname
   },
 })
