@@ -4,7 +4,7 @@ const SkillsPage = () => {
   const skills = [
     {
       name: 'HTML5',
-      level: 90,
+      level: 95,
       image: 'https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4085627/cover_image/regular_1708x683/01-HTML5_CM-d750fc9cb7c10219f11c708c75450e79.png',
     },
     {
@@ -29,32 +29,32 @@ const SkillsPage = () => {
     },
     {
       name: 'Express.js',
-      level: 85,
+      level: 75,
       image: 'https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA',
     },
     {
       name: 'React.js',
-      level: 90,
+      level: 80,
       image: 'https://media.licdn.com/dms/image/D4D12AQF26-NZ279EaA/article-cover_image-shrink_600_2000/0/1688018102545?e=2147483647&v=beta&t=Q9aUSt_UHzSqZYyDycri3s2kqVDlPc-YM0ZzlH2yfYc',
     },
     {
       name: 'React Native',
-      level: 80,
+      level: 60,
       image: 'https://www.visual-craft.com/static/86b4a37121c83372d45b5f4878caccf1/8e4fb/React_Native_2_c5ab49be9b.png',
     },
     {
       name: 'Node.js',
-      level: 85,
+      level: 55,
       image: 'https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png',
     },
     {
       name: 'Python',
-      level: 75,
+      level: 65,
       image: 'https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-b7b1dec/www.aalpha.net/wp-content/uploads/2019/10/Python-programming-india.jpg',
     },
     {
       name: 'Java',
-      level: 70,
+      level: 80,
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3S9FqOWEjqGZPQ98L55jzxu9OXbJqwXx_Gw&s',
     },
   ];
