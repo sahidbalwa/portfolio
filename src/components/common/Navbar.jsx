@@ -10,8 +10,8 @@ function Navbar() {
   };
 
   return (
-    <header className="bg-transparent backdrop-blur-sm text-white shadow-md">
-      <nav className="container mx-auto flex justify-between items-center p-6">
+    <header className=" fixed top-0 left-0 w-full p-4 z-50 backdrop-blur-lg text-white shadow-md">
+      <nav className=" container mx-auto flex justify-between items-center p-6">
         {/* Brand Name */}
         <Link to="/" className="text-3xl font-semibold font-serif">
           Sahid Balwa

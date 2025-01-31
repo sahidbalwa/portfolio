@@ -80,19 +80,19 @@ function HomePage() {
             <div className="flex gap-4 mb-8 mt-10">
               <a
                 href="https://github.com/sahidbalwa"
-                className="p-2 rounded-full bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
+                className="p-2 rounded-full  bg-gray-200 hover:bg-gray-300  "
               >
                 <Github className="w-6 h-6" />
               </a>
               <a
                 href="https://in.linkedin.com/in/sahid-balwa"
-                className="p-2 rounded-full bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
+                className="p-2 rounded-full bg-gray-200 hover:bg-gray-300 "
               >
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
                 href="mailto:balwasahid@gmail.com"
-                className="p-2 rounded-full bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
+                className="p-2 rounded-full  bg-gray-200 hover:bg-gray-300 "
               >
                 <Mail className="w-6 h-6" />
               </a>

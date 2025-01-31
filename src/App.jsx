@@ -23,7 +23,7 @@ function App() {
 
         {/* Main content */}
         <div className="relative z-10">
-          <Navbar className="fixed" />
+          <Navbar className="fixed " />
           <main className="flex-grow ">
             <Routes>
               <Route path="/" element={<HomePage />} />

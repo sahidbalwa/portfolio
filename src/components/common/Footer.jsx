@@ -15,7 +15,7 @@ const Footer = () => {
                 <Phone className="h-5 w-5 mr-2" />
                 <span>+91 7623001476</span>
               </div>
-              <div className="flex items-center text-amber-500 dark:text-gray-400 hover:text-amber-600">
+              <div className="flex items-center text-amber-500 hover:text-amber-600">
                 <MapPin className="h-5 w-5 mr-2" />
                 <span>Ahemdabad, Gujarat / Mumbai, Maharastra</span>
               </div>
